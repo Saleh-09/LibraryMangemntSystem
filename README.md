@@ -1,6 +1,5 @@
 This Library Management System is a Windows Forms (.NET WinForms) application developed using SQL Server and Entity Framework Core. It provides a structured and user-friendly interface for managing books, members, and borrowing activities.
 
-Features
 Admin Features:
 Book Management: Admins can add, update, and delete books.
 Member Management: Admins can add, update, and delete library members.
